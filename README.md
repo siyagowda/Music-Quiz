@@ -2,7 +2,7 @@
 My NEA project for my OCR GCSE Computer Science
 
 # Requirements
-Uses Python and CSV files
+Uses Python and CSV files, just download files to device
 
 # How to play
 Create user log in by appending "Players" .csv file.
